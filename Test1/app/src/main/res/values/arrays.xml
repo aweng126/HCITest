@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="schools">
+        <item > 山东大学</item>
+        <item > 清华大学</item>
+        <item > 北京大学</item>
+        <item > 天津大学</item>
+        <item > 济南大学</item>
+        <item > 湖南大学</item>
+    </string-array>
+
+</resources>
